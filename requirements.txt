@@ -1,3 +1,6 @@
+standford_dataset:(Images and Annotation required)
+http://vision.stanford.edu/aditya86/ImageNetDogs/
+
 python 3.9.11
 conda install -c conda-forge cudatoolkit=11.2 cudnn=8.1.0
 python -m pip install "tensorflow<2.11"
